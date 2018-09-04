@@ -1,4 +1,4 @@
-# K2000-Arduino
+# Arduino-K2000
 K2000 animation for arduino.
 
 # How to connect the LEDs :
